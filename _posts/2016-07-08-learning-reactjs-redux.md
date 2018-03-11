@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Learning ReactJS and Redux 
 ---
 Link to [Todo Heroku Web App](https://arcane-caverns-41973.herokuapp.com).
 
