@@ -7,7 +7,7 @@ published: true
 
 ![test.jpg]({{site.baseurl}}/test.jpg)
 
-Hello! I am a computer science student at Purdue University. 
+Hello! I am a computer science student at Purdue University. (I will update this section over spring and summer 2018). 
 
 ---
 
@@ -17,9 +17,12 @@ Note: My Wordpress blog hosted by HostGator got compromised by malware. Unfortun
 
 ![]({{site.baseurl}}/images/shivon-zilis-Machine_Intelligence_Landscape_12-10-2014.jpg)
 
+---
 
 ### Contact me
 
 [aakashpydi@gmail.com](mailto:aakashpydi@gmail.com)
 
 [apydi@purdue.edu](mailto:apydi@purdue.edu)
+
+---
