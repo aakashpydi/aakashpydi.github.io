@@ -9,9 +9,8 @@ published: true
 
 Hello! I am a computer science student at Purdue University. 
 
-### More Information
+![]({{site.baseurl}}/images/shivon-zilis-Machine_Intelligence_Landscape_12-10-2014.jpg)![shivon-zilis-Machine_Intelligence_Landscape_12-10-2014.jpg]({{site.baseurl}}/images/shivon-zilis-Machine_Intelligence_Landscape_12-10-2014.jpg)
 
-to be added
 
 ### Contact me
 
