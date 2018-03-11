@@ -6,6 +6,7 @@ published: true
 ---
 
 ![test.jpg]({{site.baseurl}}/test.jpg)
+
 Hello! I am a computer science student at Purdue University. 
 
 ### More Information
