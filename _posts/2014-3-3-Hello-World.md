@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Fact/Opinion Classification using the Naive Bayes Classifier and the Iterative Hyperlink-Induced Topic Search Algorithm 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+In this project, I replicated the key results from the paper, "A Novel Two-stage Framework for Extracting Opinionated Sentences from News Articles" (Pujari, Rajkumar. Desai, Swara. Ganguly, Niloy. Goyal, Pawan).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+The project entails using a combination of the Naive Bayes classifier and the Hyperlink-Induced Topic Search (HITS) algorithm to carry out fact/opinion classification of the sentences in a given corpus.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+(Project's Github Link)
