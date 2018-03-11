@@ -67,7 +67,7 @@ Note: My Wordpress blog hosted by HostGator got compromised by malware. Unfortun
 
 ![tim_korb.JPG]({{site.baseurl}}/images/tim_korb.JPG)
 
-### With Dr. Tim Korb (Asst Chair of the CS Dept. at Purdue). May, 2013, 
+#### With Dr. Tim Korb (Asst Chair of the CS Dept. at Purdue). May, 2013, 
 
 ---
 
