@@ -3,6 +3,8 @@ published: false
 ---
 ## Learning ReactJS and Redux
 
+Link to [Todo Heroku Web App](https://arcane-caverns-41973.herokuapp.com).
+
 ### Todo App Screenshots
 ![]({{site.baseurl}}/images/login%20page.JPG)
 ![]({{site.baseurl}}/images/Capture.JPG)![Capture.JPG]({{site.baseurl}}/images/Capture.JPG)
@@ -13,4 +15,3 @@ published: false
 ![]({{site.baseurl}}/images/TIMER%20APP.JPG)
 ![]({{site.baseurl}}/images/TIMER%20APP2.JPG)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
