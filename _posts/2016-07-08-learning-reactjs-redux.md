@@ -1,9 +1,9 @@
 ---
 published: true
 layout: post
-title: Learning ReactJS and Redux 
+title: Learning ReactJS and Redux
 ---
-Link to [Todo Heroku Web App](https://arcane-caverns-41973.herokuapp.com).
+Link to [Todo Heroku Web App](https://arcane-caverns-41973.herokuapp.com). See screenshots below
 
 ### Todo App Screenshots
 ![]({{site.baseurl}}/images/login%20page.JPG)
