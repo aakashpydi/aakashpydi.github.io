@@ -43,7 +43,7 @@ Note: My Wordpress blog hosted by HostGator got compromised by malware. Unfortun
 
 ![student_session.jpg]({{site.baseurl}}/images/student_session.jpg)
 
-### Conducting Session with Students at DPS Hyderabad. July, 2015. 
+### Conducting Learning Session with Students at DPS Hyderabad. July, 2015. 
 
 ---
 
@@ -61,7 +61,7 @@ Note: My Wordpress blog hosted by HostGator got compromised by malware. Unfortun
 
 ![session_purdue.jpg]({{site.baseurl}}/images/session_purdue.jpg)
 
-#### Conducting Session at Purdue. September, 2014. 
+#### Conducting Learning Session at Purdue. September, 2014. 
 
 ---
 
