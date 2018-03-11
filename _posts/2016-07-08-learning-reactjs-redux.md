@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Learning ReactJS and Redux
 
@@ -14,4 +14,3 @@ Link to [Todo Heroku Web App](https://arcane-caverns-41973.herokuapp.com).
 
 ![]({{site.baseurl}}/images/TIMER%20APP.JPG)
 ![]({{site.baseurl}}/images/TIMER%20APP2.JPG)
-
