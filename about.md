@@ -9,7 +9,7 @@ published: true
 
 Hello! I am a computer science student at Purdue University. (I will update this section over spring and summer 2018). 
 
-I love to read [(Check out my Goodreads Profile!)](https://www.goodreads.com/user/show/53458380-aakash-pydi).
+I love to read [(My Goodreads Page!)](https://www.goodreads.com/user/show/53458380-aakash-pydi).
 
 ---
 
