@@ -17,7 +17,7 @@ Unfortunately, I had to take some time off from college due to family and medica
 
 Through my personal experiences, academic work, and extracurricular work, I hope to develop a specialized technical skill set buttressed by important quantitative and qualitative skills. I hope these skills can help me learn from, and contribute to great projects/ideas/teams.  
 
-Please feel free to contact me using the information below. 
+Please feel free to contact me using the information below. Thanks for dropping by!
 
 ---
 
