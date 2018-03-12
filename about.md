@@ -37,13 +37,13 @@ Note: My Wordpress blog hosted by HostGator got compromised by malware. Unfortun
 
 ![world_bank.JPG]({{site.baseurl}}/images/world_bank.JPG)
 
-### Speaking at the World Bank Global Youth Conference. June, 2016
+#### Speaking at the World Bank Global Youth Conference. June, 2016
 
 ---
 
 ![student_session.jpg]({{site.baseurl}}/images/student_session.jpg)
 
-### Conducting Learning Session with Students at DPS Hyderabad. July, 2015. 
+#### Conducting Learning Session with Students at DPS Hyderabad. July, 2015. 
 
 ---
 
