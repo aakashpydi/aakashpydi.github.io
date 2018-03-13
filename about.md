@@ -27,8 +27,6 @@ Please feel free to contact me using the information below. Thanks for dropping 
 
 [apydi@purdue.edu](mailto:apydi@purdue.edu)
 
-[My LinkedIn Profile](https://www.linkedin.com/in/aakash-pydi)
-
 ---
 
 ![Facebook University Day. Jan 2016. ]({{site.baseurl}}/images/facebook_university_day.JPG)
