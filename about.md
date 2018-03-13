@@ -9,6 +9,16 @@ published: true
 
 Hello! I am a computer science student at Purdue University [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), writing [(My Medium Profile)](https://medium.com/@aakashpydi), watching/playing cricket, and (time permitting) watching lots of movies/tv shows. 
 
+---
+
+---
+
+Note: My Wordpress blog which was hosted by HostGator got compromised by malware. Unfortunately I don't have backups for the posts I wrote in Fall 2017 (Using Pandas for Evaluating Classifiers, Choosing a Classifier from Sklearn). I decided to migrate (i) my technical posts to a static website powered by [jekyll](https://jekyllrb.com/) that is hosted on [Github Pages](https://pages.github.com/), and (ii) my non-technical posts to Medium [(Link to my Medium Profile)](https://medium.com/@aakashpydi).
+
+---
+
+---
+
 In my freshman year of college, I started an organization called the [Student Think Tank for India](https://www.facebook.com/StudentThinkTankForIndia/). The core team that I put together ([Aditi Parekh](https://www.linkedin.com/in/aditi183/), [Mohnish Yerra](https://www.linkedin.com/in/mohnishyerra/), [Ashutosh Agarwal](https://www.linkedin.com/in/ashutosha56/), and Smita Samanta) invested its extracurricular time, to promote critical thinking and civic engagement in Indian schools. We did great work through the organization. However with time, I phased out my involvement with the organization, as I wanted to use the extra time to work on machine intelligence projects that I started getting particularly excited about. Apart from the projects being exceptionally interesting to work on, the fact that data driven technologies are fundamentally changing the way we interact and understand the world, was and is, very motivating. 
 
 ![]({{site.baseurl}}/images/shivon-zilis-Machine_Intelligence_Landscape_12-10-2014.jpg)
@@ -76,13 +86,5 @@ Please feel free to contact me using the information below. Thanks for dropping 
 ![hannah_community_center.jpg]({{site.baseurl}}/images/hannah_community_center.jpg)
 
 #### At the Hannah Community Center, West Lafayette. March, 2013.
-
----
-
----
-
-Note: My Wordpress blog which was hosted by HostGator got compromised by malware. Unfortunately I don't have backups for the posts I wrote in Fall 2017 (Using Pandas for Evaluating Classifiers, Choosing a Classifier from Sklearn). I decided to migrate (i) my technical posts to a static website powered by [jekyll](https://jekyllrb.com/) that is hosted on [Github Pages](https://pages.github.com/), and (ii) my non-technical posts to Medium [(Link to my Medium Profile)](https://medium.com/@aakashpydi).
-
----
 
 ---
