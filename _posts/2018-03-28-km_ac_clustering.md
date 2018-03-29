@@ -17,7 +17,7 @@ published: true
 layout: post
 title: Implementing K-Means and Agglomerative Clustering Algorithms from Scratch
 ---
-I implemented the k-means and agglomerative clustering algorithms from scratch. [(Link to Github Repo of Source Code)](https://github.com/aakashpydi/K_Means_Agglomerative_Clustering) The script uses the yelp dataset.[Yelp Dataset Link.](https://www.kaggle.com/yelp-dataset/yelp-dataset/data) I verified the correctness of the implementation using the SKLearn implementations of these algorithms. 
+I implemented the k-means and agglomerative clustering algorithms from scratch in this project. [(Link to Github Repo of Source Code)](https://github.com/aakashpydi/K_Means_Agglomerative_Clustering) The python script in the repo uses the yelp dataset.[Yelp Dataset Link.](https://www.kaggle.com/yelp-dataset/yelp-dataset/data) I verified the correctness of the implementation using the SKLearn implementations of these algorithms. 
 
 Here is some analysis I carried out to understand and compare the two algorithms. Four attributes are used to carry out the clustering in this analysis (latitude, longitude, reviewCount and checkins). 
 
