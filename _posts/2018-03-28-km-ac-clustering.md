@@ -1,5 +1,19 @@
 ---
-published: false
+'0': p
+'1': u
+'2': b
+'3': l
+'4': i
+'5': s
+'6': h
+'7': e
+'8': d
+'9': ':'
+'10': t
+'11': r
+'12': u
+'13': e
+published: true
 ---
 ## Implementing K-Means and Agglomerative Clustering Algorithms from Scratch
 
