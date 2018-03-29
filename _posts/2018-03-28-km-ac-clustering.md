@@ -11,7 +11,13 @@ I implemented the k-means and agglomerative clustering algorithms from scratch. 
 
 The script uses the yelp dataset.[Yelp Dataset Link.](https://www.kaggle.com/yelp-dataset/yelp-dataset/data) I verified the correctness of the implementation using the SKLearn implementations of these algorithms. 
 
-Here is some analysis I carried out to understand and compare the two algorithms. Four attributes are focused on in the analysis (latitude, longitude, reviewCount and checkins). 
+Here is some analysis I carried out to understand and compare the two algorithms. Four attributes are used to carry out the clustering in this analysis (latitude, longitude, reviewCount and checkins). 
+
+### Comparing K-Means vs Agglomerative Clustering Along Two Dimensions (K Value = 3)
+
+![]({{site.baseurl}}/images/kmeans_yelp_output.png)
+![]({{site.baseurl}}/images/kmeans_agg_output.png)
+
 
 ### Understanding Which Dimensions are Driving the K-Means Clustering Model (K Value = 4)
 
@@ -39,3 +45,14 @@ We can see that the log transformation on the dimensions checkins and reviewcoun
 values [K = 4,8,16,32,64]. We can perhaps attribute this to the ranges of the values taken by a subset of the dimensions, coming closer to one another
 
 ---
+
+### Analyse K-Means Clustering Model after Transformation such that each Attribute has Mean=0 and Std-Dev=1
+
+![]({{site.baseurl}}/images/kmeans_std_1.png)
+![]({{site.baseurl}}/images/kmeans_std_2.png)
+![]({{site.baseurl}}/images/kmeans_std_3.png)
+
+In this case, we can see that ALL the dimensions seem to be driving the clustering model in roughly equal part. This makes sense as the dimensions have all been scaled. Observe that, the dimensions reviewCount and checkins seem to exhibit a clearer pattern in terms of the distinction between the cluster denoted by the red color and the rest of the clusters. This again makes sense, given that the range of values for checkins and reviewCount is larger than that of latitude and longitude, after scaling. Broadly speaking, observe that both the plots exhibit fairly clear patterns. We also observe that the WC-SSE consistently goes down with higher K values
+
+---
+
