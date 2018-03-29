@@ -26,7 +26,16 @@ Observe that in the yelp data set, the reviewCount and Checkins values are MUCH 
 
 ---
 
-### Analyse K-Means Clustering Model after Carrying Log Transformation on Two Attributes (checkins and reviewCount)
+### Analyse K-Means Clustering Model after Carrying Out Log Transformation on Two Attributes (checkins and reviewCount)
 
+![]({{site.baseurl}}/images/kmeans_log_1.png)
+![]({{site.baseurl}}/images/kmeans_log_2.png)
+![]({{site.baseurl}}/images/kmeans_log_3.png)
+
+The first key change we observe that in these plots, the dimensions Latitude and Longitude are the one’s affecting the clustering model the most (as evidenced by the clear pattern of the clusters in the graphs). The reason for this is the same as what was discussed above. As we use the Euclidean distance for the similarity metric,
+the dimensions with the LARGER values (and ranges), affect the clustering model more. 
+
+We can see that the log transformation on the dimensions checkins and reviewcounts, dramatically reduced their size causing them to have a lower range than the Latitude and Longitude dimensions. What we also observe is the WC-SSE is less variable for the
+values [K = 4,8,16,32,64]. We can perhaps attribute this to the ranges of the values taken by a subset of the dimensions, coming closer to one another
 
 ---
