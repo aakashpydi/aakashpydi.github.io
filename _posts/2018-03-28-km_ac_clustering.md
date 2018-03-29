@@ -14,6 +14,8 @@
 '12': u
 '13': e
 published: true
+layout: post
+title: Implementing K-Means and Agglomerative Clustering Algorithms from Scratch
 ---
 ## Implementing K-Means and Agglomerative Clustering Algorithms from Scratch
 
