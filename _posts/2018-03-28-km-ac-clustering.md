@@ -11,7 +11,7 @@ I implemented the k-means and agglomerative clustering algorithms from scratch. 
 
 The script uses the yelp dataset.[Yelp Dataset Link.](https://www.kaggle.com/yelp-dataset/yelp-dataset/data) I verified the correctness of the implementation using the SKLearn implementations of these algorithms. 
 
-Four attributes are used to carry out the clustering in this analysis (latitude, longitude, reviewCount and checkins). 
+Here is some analysis I carried out to understand and compare the two algorithms. Four attributes are used to carry out the clustering in this analysis (latitude, longitude, reviewCount and checkins). 
 
 ### Comparing K-Means vs Agglomerative Clustering Along Two Dimensions (K Value = 3)
 
