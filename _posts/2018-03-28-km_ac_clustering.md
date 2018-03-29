@@ -63,4 +63,3 @@ values [K = 4,8,16,32,64]. We can perhaps attribute this to the ranges of the va
 In this case, we can see that ALL the dimensions seem to be driving the clustering model in roughly equal part. This makes sense as the dimensions have all been scaled. Observe that, the dimensions reviewCount and checkins seem to exhibit a clearer pattern in terms of the distinction between the cluster denoted by the red color and the rest of the clusters. This again makes sense, given that the range of values for checkins and reviewCount is larger than that of latitude and longitude, after scaling. Broadly speaking, observe that both the plots exhibit fairly clear patterns. We also observe that the WC-SSE consistently goes down with higher K values
 
 ---
-
