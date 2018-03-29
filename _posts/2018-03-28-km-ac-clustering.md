@@ -1,10 +1,6 @@
 ---
 published: false
 ---
----
-published: true
----
-
 ## Implementing K-Means and Agglomerative Clustering Algorithms from Scratch
 
 I implemented the k-means and agglomerative clustering algorithms from scratch. [(Link to Github Repo of Source Code)](https://github.com/aakashpydi/K_Means_Agglomerative_Clustering)
