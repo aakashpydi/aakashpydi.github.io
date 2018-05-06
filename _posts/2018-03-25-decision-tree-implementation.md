@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+title: Decision Tree Implementation
 ---
 ## Decision Tree Implementation
 
