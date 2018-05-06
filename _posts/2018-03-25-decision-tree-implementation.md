@@ -3,8 +3,6 @@ published: true
 layout: post
 title: Decision Tree Implementation
 ---
-## Decision Tree Implementation
-
 I implemented three variants of a decision tree from scratch in this project. They are (a) a binary decision tree with no pruning using the ID3 algorithm, (b) a binary decision tree with a given maximum depth, and (c) a binary decision tree with post-pruning using reduced error pruning. [(Link to Github Repo of Source Code)](https://github.com/aakashpydi/DecisionTreeImplementation). 
 
 Here is some analysis I carried out to understand and compare the different implementations. 
