@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-![test.jpg]({{site.baseurl}}/about-images/test.jpg)
+![test.jpg]({{site.baseurl}}/images/about-images/test.jpg)
 
 Hello! I am a computer science student at Purdue University [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), writing [(My Medium Profile)](https://medium.com/@aakashpydi), watching/playing cricket, and (time permitting) watching lots of movies/tv shows.
 
