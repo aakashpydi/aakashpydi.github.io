@@ -9,6 +9,6 @@ Updating this page.
 
 ---
 
-## Relevant Courses
+## Major Courses
 
 ![major-grades]({{site.baseurl}}/images/resume-images/major-grades.jpg)
