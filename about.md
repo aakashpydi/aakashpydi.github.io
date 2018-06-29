@@ -83,7 +83,7 @@ Please feel free to contact me using the information below. Thanks for dropping 
 
 ![hannah_2.jpg]({{site.baseurl}}/images/about-images/hannah_2.jpg)
 
-![hannah_community_center.jpg]({{site.baseurl}}/about-images/images/hannah_community_center.jpg)
+![hannah_community_center.jpg]({{site.baseurl}}/images/about-images/hannah_community_center.jpg)
 
 #### At the Hannah Community Center, West Lafayette. March, 2013.
 
