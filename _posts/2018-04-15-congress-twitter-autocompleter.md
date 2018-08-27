@@ -13,10 +13,10 @@ I used subsets of the following datasets from George Washington University store
 ### Word2Vec Embeddings
 
 Sample output of top ten closest words to the word 'simple' in the generated embedded space.
-![Simple Top Ten](../images/tweet_autocomplete_images/simple_top_ten_matches.JPG)
+![Simple Top Ten]({{site.baseurl}}/images/tweet_autocomplete_images/simple_top_ten_matches.JPG)
 
 Two dimensional representation of the embedded space (dataset of ~50,000 tweets).
-![Word2Vec Embeddings Small](../images/tweet_autocomplete_images/embeddings_small.JPG)
+![Word2Vec Embeddings Small]({{site.baseurl}}/images/tweet_autocomplete_images/embeddings_small.JPG)
 
 Two dimensional representation of the embedded space (dataset of ~1.5 million tweets)
-![Word2Vec Embeddings Large](../images/tweet_autocomplete_images/embeddings_large.JPG)
+![Word2Vec Embeddings Large]({{site.baseurl}}/images/tweet_autocomplete_images/embeddings_large.JPG)
