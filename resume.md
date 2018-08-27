@@ -5,7 +5,7 @@ permalink: /resume/
 published: true
 ---
 
-Updating this page.
+![major-grades]({{site.baseurl}}/images/resume-images/resume_snip.jpg)
 
 ---
 
