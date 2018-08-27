@@ -6,8 +6,7 @@ published: true
 ---
 
 ![major-grades]({{site.baseurl}}/images/resume-images/resume_snip.JPG)
-
-[(Download PDF of Resume)]({{site.baseurl}}/images/resume-images/aakash_pydi_resume.pdf)
+[(PDF Download)]({{site.baseurl}}/images/resume-images/aakash_pydi_resume.pdf)
 ---
 
 ## Major Courses
