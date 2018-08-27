@@ -6,6 +6,7 @@ published: true
 ---
 
 ![major-grades]({{site.baseurl}}/images/resume-images/resume_snip.JPG)
+
 [(PDF Download)]({{site.baseurl}}/images/resume-images/aakash_pydi_resume.pdf)
 ---
 
