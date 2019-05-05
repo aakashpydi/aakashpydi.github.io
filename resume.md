@@ -5,7 +5,7 @@ permalink: /resume/
 published: true
 ---
 
-![major-grades]({{site.baseurl}}/images/resume-images/resume_snip.JPG)
+![resume-snip]({{site.baseurl}}/images/resume-images/resume_snip.PNG)
 
 [(PDF Download)]({{site.baseurl}}/images/resume-images/aakash_pydi_resume.pdf)
 ---
