@@ -7,7 +7,7 @@ published: true
 
 ![test.jpg]({{site.baseurl}}/images/about-images/test.jpg)
 
-Hello! I am a Purdue University Computer Science graduate currently working as a software engineer at Cerner Corporation. [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). 
+Hello! I am a Purdue University Computer Science graduate currently working as a software engineer at Cerner Corporation. [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). I am on Cerner's Enterprise System Management team. We work on developing utilities and platforms for automation, system telemetry and big data analytics which help improve the performance, stability, scale, and security of Cerner's technology infrastructure.
 
 I constantly strive to promote a culture of curiosity, camaraderie, and compassion. I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), writing [(My Medium Profile)](https://medium.com/@aakashpydi), watching/playing cricket, gaming, and (time permitting) watching lots of movies/tv shows. 
 
