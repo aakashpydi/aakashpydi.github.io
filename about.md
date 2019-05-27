@@ -17,8 +17,6 @@ Through my personal experiences, professional work, academic work, and extracurr
 
 ![]({{site.baseurl}}/images/about-images/defining_traits.PNG)
 
-This is the energy that I try to bring to the teams that I work with.
-
 ### The Evolution of My Motivation ###
 
 ![]({{site.baseurl}}/images/about-images/motivation_1.PNG)
@@ -27,23 +25,24 @@ Notes:
   1. Felt a visceral impulse to help improve the education system which seemed to be failing many struggling students, and ended up working extensively with kids in high schools and colleges.  
   1. Found the mental health crisis to be a consistent pattern across schools and colleges. Getting an intimate sense for the pain and suffering was intensely motivating.
 
+---
 
 ![]({{site.baseurl}}/images/about-images/motivation_2.PNG)
 Notes:
   1. The problem with this goal is that the data pipeline is overwhelmingly complex! Each layer of these layers has a gazillion technologies and technical problems associated with it!
 
+---
 
 ![]({{site.baseurl}}/images/about-images/motivation_3.PNG)
 Notes:
   1. Placing an aggressive emphasis on software engineering process learning and learning to be hyper-adaptable.
   1. Process and approach generalize across technical problems.
 
-
-Please feel free to contact me using the information below. Thanks for dropping by!
-
 ---
 
 ### Contact me
+
+Please feel free to contact me using the information below. Thanks for dropping by!
 
 [aakashpydi@gmail.com](mailto:aakashpydi@gmail.com)
 
