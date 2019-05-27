@@ -9,9 +9,9 @@ published: true
 
 Hello! I am currently working as a software engineer on Cerner Corporation's Enterprise System Management team [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). We work on developing utilities and platforms for automation, system telemetry and big data analytics which help improve the performance, stability, scale, and security of Cerner's technology infrastructure.
 
-I like to think that my defining traits are being curious, hungry to learn and intellectually engaged, and that my defining values are having a service mindset, promoting camaraderie and building deep relationships. This is the energy that I try to bring to the teams that I work with.
-
 ![]({{site.baseurl}}/images/about-images/defining_traits.PNG)
+
+I like to think that my defining traits are being curious, hungry to learn and intellectually engaged, and that my defining values are having a service mindset, promoting camaraderie and building deep relationships. This is the energy that I try to bring to the teams that I work with.
 
 I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), writing [(My Medium Profile)](https://medium.com/@aakashpydi), watching/playing cricket, gaming, and watching lots of movies/tv shows.
 
