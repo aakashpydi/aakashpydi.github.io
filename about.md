@@ -9,6 +9,10 @@ published: true
 
 Hello! I am currently working as a software engineer on Cerner Corporation's Enterprise System Management team [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). We work on developing utilities and platforms for automation, system telemetry and big data analytics which help improve the performance, stability, scale, and security of Cerner's technology infrastructure.
 
+I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), writing [(My Medium Profile)](https://medium.com/@aakashpydi), watching/playing cricket, gaming, and watching lots of movies/tv shows.
+
+Through my personal experiences, professional work, academic work, and extracurricular work, I hope to develop a specialized technical skill set buttressed by important quantitative and qualitative skills. I hope these skills can help me learn from, and contribute to great projects/ideas/teams.
+
 ### My Defining Traits and Values (or so I'd like to think) ###
 
 ![]({{site.baseurl}}/images/about-images/defining_traits.PNG)
@@ -31,10 +35,6 @@ Notes:
 Notes:
   1. Placing an aggressive emphasis on software engineering process learning and learning to be hyper-adaptable.
   1. Process and approach generalize across technical problems.
-
-I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), writing [(My Medium Profile)](https://medium.com/@aakashpydi), watching/playing cricket, gaming, and watching lots of movies/tv shows.
-
-Through my personal experiences, professional work, academic work, and extracurricular work, I hope to develop a specialized technical skill set buttressed by important quantitative and qualitative skills. I hope these skills can help me learn from, and contribute to great projects/ideas/teams.  
 
 Please feel free to contact me using the information below. Thanks for dropping by!
 
