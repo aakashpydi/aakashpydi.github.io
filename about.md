@@ -9,9 +9,28 @@ published: true
 
 Hello! I am currently working as a software engineer on Cerner Corporation's Enterprise System Management team [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). We work on developing utilities and platforms for automation, system telemetry and big data analytics which help improve the performance, stability, scale, and security of Cerner's technology infrastructure.
 
+### My Defining Traits and Values (or so I'd like to think) ###
+
 ![]({{site.baseurl}}/images/about-images/defining_traits.PNG)
 
-I like to think that my defining traits are being curious, hungry to learn and intellectually engaged, and that my defining values are having a service mindset, promoting camaraderie and building deep relationships. This is the energy that I try to bring to the teams that I work with.
+This is the energy that I try to bring to the teams that I work with.
+
+### The Evolution of My Motivation ###
+
+![]({{site.baseurl}}/images/about-images/motivation_1.PNG)
+Notes:
+  1. In high school and early college, I found that many of my peers and family members were working through various mental health related challenges.
+  1. Felt a visceral impulse to help improve the education system which seemed to be failing many struggling students, and ended up working extensively with kids in high schools and colleges.  
+  1. Found the mental health crisis to be a consistent pattern across schools and colleges. Getting an intimate sense for the pain and suffering was intensely motivating.
+
+![]({{site.baseurl}}/images/about-images/motivation_2.PNG)
+Notes:
+  1. The problem with this goal is that the data pipeline is overwhelmingly complex! Each layer of these layers has a gazillion technologies and technical problems associated with it!
+
+![]({{site.baseurl}}/images/about-images/motivation_3.PNG)
+Notes:
+  1. Placing an aggressive emphasis on software engineering process learning and learning to be hyper-adaptable.
+  1. Process and approach generalize across technical problems.
 
 I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), writing [(My Medium Profile)](https://medium.com/@aakashpydi), watching/playing cricket, gaming, and watching lots of movies/tv shows.
 
