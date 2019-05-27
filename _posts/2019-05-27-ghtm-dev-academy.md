@@ -19,6 +19,22 @@ Notes:
 
 ![]({{site.baseurl}}/images/ghtm_images/ghtm_key_contributions.PNG)
 
+Notes:
+  1. Placed an aggressive emphasis on process learning and learning to be hyper-adaptable
+  1. Approach informed by initial codebase analysis
+
 ***
 
 ![]({{site.baseurl}}/images/ghtm_images/ghtm_elasticsearch_integration.PNG)
+
+Notes:
+  1. Class design so that indexing logic is agnostic of the search implementation.
+  1. Reasons for choosing Elasticsearch in this project:
+    1. ES provides per segment cache's whereas Solr provides global caches. This makes ES much better suited for dynamically changing data.
+    1. ES makes it easier to use distributed processing techniques. ES supports auto-scaling to a much greater extent than Solr does.
+    1. ES is much easier to setup and scale. ES has a much lower overhead for deployment and maintenance. This is a particularly useful feature for a DevAcademy project.
+    1. Helpful Links:
+      1. [Solr vs. Elasticsearch: Who’s The Leading Open Source Search Engine?](https://logz.io/blog/solr-vs-elasticsearch/)
+      1. [Apache Solr vs Elasticsearch: The Feature Smackdown](http://solr-vs-elasticsearch.com/)  
+      1. [Solr vs. Elasticsearch in the Age of Insight Engines](https://www.searchtechnologies.com/blog/solr-elasticsearch-cognitive-search)
+      1. [Top 15 Solr vs. Elasticsearch Differences](https://sematext.com/blog/solr-vs-elasticsearch-differences/)
