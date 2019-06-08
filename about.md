@@ -11,9 +11,7 @@ Hello! I am currently working as a software engineer on Cerner Corporation's Ent
 
 I always strive to promote a culture of curiosity, camaraderie, and compassion. I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog, [my twitter page](https://twitter.com/PydiAakash), [my technical newsletter](https://tinyletter.com/aakashpydi)), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), writing [(My Medium Profile)](https://medium.com/@aakashpydi), watching/playing cricket, gaming, and watching lots of movies/tv shows.
 
- <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/aakashpydi" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/aakashpydi', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-         
-Through my personal experiences, professional work, academic work, and extracurricular work, I hope to develop a specialized technical skill set buttressed by important quantitative and qualitative skills. I hope these skills can help me learn from, and contribute to great projects/ideas/teams.
+ <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/aakashpydi" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/aakashpydi', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe to my technical newsletter" /></form>
 
 ### My Defining Traits and Values (or so I'd like to think) ###
 
