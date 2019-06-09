@@ -3,7 +3,7 @@ published: true
 layout: post
 title: GitHub Time Machine (Cerner DevAcademy Project)
 ---
-This is a summary of the work that I did in Cerner's DevAcademy over the course of two months. DevAcademy is a part of Cerner's onboarding process where freshly hired software engineers work on low priority internal projects with the objective of learning good development practices and Cerner's dev. culture. DevAcademy is pretty rigorous and unofficially serves as the final validation step in Cerner's hiring process. For more information on DevAcademy, check out the brilliant [Michelle Brush's](https://www.linkedin.com/in/michellebrush/) [post on Cerner's engineering blog](https://engineering.cerner.com/2013/08/devacademy/).
+This is a summary of the work that I did in Cerner's DevAcademy over the course of two months. DevAcademy is a part of Cerner's onboarding process where freshly hired software engineers work on low priority internal projects with the objective of learning good development practices and Cerner's dev. culture. DevAcademy is pretty rigorous and unofficially serves as the final validation step in Cerner's hiring process. For more information on DevAcademy, check out the brilliant [Michelle Brush's](https://www.linkedin.com/in/michellebrush/) [post on Cerner's engineering blog](https://engineering.cerner.com/2013/08/devacademy/). [Link to this post on medium.](https://medium.com/@aakashpydi/github-time-machine-cerner-devacademy-project-c1ba9d40503?source=friends_link&sk=fe8e45900bca6434134b3628d532a840)
 
 **GitHub Time Machine Presentation**
 

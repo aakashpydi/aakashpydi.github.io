@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Twitter Auto-completer for Members of Congress
 ---
-This project [(Link to Github Repo)](https://github.com/aakashpydi/tweet_completer_congress) is a tweet auto-completer for members of Congress. I used the Twitter API & the DocNow hydrator to create a custom dataset. I then used the GenSim library to generate a custom word2vec representation and finally used a Keras LSTM model to auto-complete tweets.
+This project [(Link to Github Repo)](https://github.com/aakashpydi/tweet_completer_congress) is a tweet auto-completer for members of Congress. I used the Twitter API & the DocNow hydrator to create a custom dataset. I then used the GenSim library to generate a custom word2vec representation and finally used a Keras LSTM model to auto-complete tweets. [Link to this post on medium.](https://medium.com/@aakashpydi/twitter-auto-completer-for-members-of-congress-ddaf6bd9f764?source=friends_link&sk=0e10acf3185ecb3c88d382bbd645653b)
 
 I used subsets of the following datasets from George Washington University stored on Harvard Dataverse:
 - [115th US Congress Tweet Ids](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UIVHQR)
