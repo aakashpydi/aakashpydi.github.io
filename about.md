@@ -9,7 +9,7 @@ published: true
 
 Hello! I am currently working as a software engineer on [Cerner](https://www.cerner.com/)'s Enterprise System Management team [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). We are [Cerner Engineering](https://engineering.cerner.com/)'s DevOps + Data Engineering shop. We work on developing utilities and platforms for automation, system telemetry and big data analytics which help improve the performance, stability, scale, and security of Cerner's technology infrastructure.
 
-I always strive to promote a culture of curiosity, camaraderie, and compassion. I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog, [my twitter page](https://twitter.com/PydiAakash), [my technical newsletter](https://tinyletter.com/aakashpydi)), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), writing [(My Medium Profile)](https://medium.com/@aakashpydi), watching/playing cricket, gaming, and watching lots of movies/tv shows.
+I always strive to promote a culture of curiosity, camaraderie, and compassion. I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog, [my Medium page](https://medium.com/@aakashpydi), [my twitter page](https://twitter.com/PydiAakash), [my technical newsletter](https://tinyletter.com/aakashpydi)), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), watching/playing cricket, gaming, and watching lots of movies/tv shows.
 
 ### My Defining Traits and Values (or so I'd like to think) ###
 
