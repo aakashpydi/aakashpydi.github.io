@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Understanding C-Store: Columnar Databases and Big Data Analytics
+title: Understanding C-Store. Columnar Databases and Big Data Analytics
 ---
 On my first day of joining a DevOps+Data Engineering team at [Cerner](https://www.cerner.com/) a couple of weeks ago, my manager and team-mentor gave me a high level overview of our team’s data architecture. The technologies associated with our team’s data pipeline were all extremely fascinating to me. I was particularly curious about our primary database which stores several petabytes (1 petabyte = 10¹⁵ bytes) of Ops data.
 
