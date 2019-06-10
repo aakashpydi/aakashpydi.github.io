@@ -3,10 +3,9 @@ published: true
 layout: post
 title: Understanding C-Store: Columnar Databases and Big Data Analytics
 ---
-
 On my first day of joining a DevOps+Data Engineering team at [Cerner](https://www.cerner.com/) a couple of weeks ago, my manager and team-mentor gave me a high level overview of our team’s data architecture. The technologies associated with our team’s data pipeline were all extremely fascinating to me. I was particularly curious about our primary database which stores several petabytes (1 petabyte = 10¹⁵ bytes) of Ops data.
 
-I was told that our primary database was highly optimized for read operations because it used columnar storage. I am a fresh grad and I wasn’t taught about columnar databases in school, so I had no clue what they were talking about. So I set out to do some research. [Link to this post on medium](https://medium.com/@aakashpydi/understanding-c-store-columnar-databases-and-big-data-analytics-aa669bb60f0?source=friends_link&sk=6b6c190388f4b40922d8cbade554e55f). 
+I was told that our primary database was highly optimized for read operations because it used columnar storage. I am a fresh grad and I wasn’t taught about columnar databases in school, so I had no clue what they were talking about. So I set out to do some research. [Link to this post on medium](https://medium.com/@aakashpydi/understanding-c-store-columnar-databases-and-big-data-analytics-aa669bb60f0?source=friends_link&sk=6b6c190388f4b40922d8cbade554e55f).
 
 Columnar Databases
 
