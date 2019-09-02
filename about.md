@@ -46,6 +46,11 @@ Please feel free to contact me using the information below. Thanks for dropping 
 
 ---
 
+![Cerner Q3 ShipIt Team. ]({{site.baseurl}}/images/about-images/spark_shipit_team.jpg)
+
+#### Cerner Internal Hackathon Team. August, 2019.
+---
+
 ![Facebook University Day. Jan 2016. ]({{site.baseurl}}/images/about-images/facebook_university_day.JPG)
 
 #### Facebook University Day. January, 2016.
