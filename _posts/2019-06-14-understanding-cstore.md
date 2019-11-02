@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Understanding C-Store. Columnar Databases and Big Data Analytics
+title: Understanding C-Store. Columnar Databases and Data Intensive Analytics
 ---
 From what I understand, the first prototype for a columnar database was introduced in a 2005 paper from MIT’s school of computer science and artificial intelligence, called [C-Store: A Column Oriented Database. (Stonebraker et al). MIT CSAIL](http://db.csail.mit.edu/projects/cstore/vldb.pdf).
 
