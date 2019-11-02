@@ -47,9 +47,7 @@ We initially didn’t leverage the execution pools support provided by the Airfl
 
 **Jetstream Architecture: Setting Up a Jetstream Cluster and Adding Support for Near Real Time Scheduling** 
 
-[[https://github.cerner.com/Olympus/jetstream/blob/WIKI-IMAGES-BRANCH/jetstream_readme_images/jetstream_architecture.png|alt=octocat]] 
-
-![]({{site.baseurl}}/images/jetstream_architecture/jetstream_architecture_iteration.PNG)
+![]({{site.baseurl}}/images/jetstream_architecture/jetstream_architecture.PNG)
 
 The picture above represents the current production architecture of Jetstream.  
 
