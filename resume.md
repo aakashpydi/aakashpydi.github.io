@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-published: true
+published: false
 ---
 
 ![resume-snip]({{site.baseurl}}/images/resume-images/resume_snip.PNG)
