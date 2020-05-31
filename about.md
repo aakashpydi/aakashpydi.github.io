@@ -9,7 +9,7 @@ published: true
 
 Hello! 
 
-I am currently working as a software development engineer on the [Amazon Web Service](https://aws.amazon.com/) [SageMaker Hosting](https://aws.amazon.com/sagemaker/) team [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). SageMaker helps exciting technology teams worldwide develop, productionize and scale machine learning workflows in a cost-effective and compute-efficient fashion. 
+I am currently working as a software development engineer on the [Amazon Web Services](https://aws.amazon.com/) [SageMaker Hosting](https://aws.amazon.com/sagemaker/) team [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). SageMaker helps exciting technology teams worldwide develop, productionize and scale machine learning workflows in a cost-effective and compute-efficient fashion. 
 
 I previously worked on [Cerner](https://www.cerner.com/)'s Enterprise System Management (Reliability+Data Engineering) team. We worked on developing utilities and platforms for system telemetry, monitoring and data intensive analytics which helped improve the reliability and security of Cerner's technology infrastructure.
 
