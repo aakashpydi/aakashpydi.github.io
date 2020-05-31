@@ -7,36 +7,13 @@ published: true
 
 ![test.jpg]({{site.baseurl}}/images/about-images/test.jpg)
 
-Hello! I am currently working as a software engineer on [Cerner](https://www.cerner.com/)'s Enterprise System Management team [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). We are [Cerner Engineering](https://engineering.cerner.com/)'s DevOps + Data Engineering shop. We work on developing utilities and platforms for automation, system telemetry and big data analytics which help improve the performance, stability, scale, and security of Cerner's technology infrastructure.
+Hello! 
 
-I always strive to promote a culture of curiosity, camaraderie, and compassion. I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog, [my Medium page](https://medium.com/@aakashpydi), [my twitter page](https://twitter.com/PydiAakash), [my technical newsletter](https://tinyletter.com/aakashpydi)), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), watching/playing cricket, gaming, and watching lots of movies/tv shows.
+I am currently working as a software development engineer on the [Amazon Web Service](https://aws.amazon.com/) [SageMaker Hosting](https://aws.amazon.com/sagemaker/) team [(My LinkedIn Profile)](https://www.linkedin.com/in/aakash-pydi). SageMaker helps exciting technology teams worldwide develop, productionize and scale machine learning workflows in a cost-effective and compute-efficient fashion. 
 
-### My Defining Traits and Values (or so I'd like to think) ###
+I previously worked on [Cerner](https://www.cerner.com/)'s Enterprise System Management (Reliability+Data Engineering) team. We worked on developing utilities and platforms for system telemetry, monitoring and data intensive analytics which helped improve the reliability and security of Cerner's technology infrastructure.
 
-![]({{site.baseurl}}/images/about-images/defining_traits.PNG)
-
-### The Evolution of My Motivation ###
-
-![]({{site.baseurl}}/images/about-images/motivation_1.PNG)
-Notes:
-  1. In high school and early college, I found that many of my peers and family members were working through various mental health related challenges.
-  1. Felt a visceral impulse to help improve the education system which seemed to be failing many struggling students, and ended up working extensively with kids in high schools and colleges.  
-  1. Found the mental health crisis to be a consistent pattern across schools and colleges. Getting an intimate sense for the pain and suffering was intensely motivating.
-
----
-
-![]({{site.baseurl}}/images/about-images/motivation_2.PNG)
-Notes:
-  1. The problem with this goal is that the data pipeline is overwhelmingly complex! Each layer of these layers has a gazillion technologies and technical problems associated with it!
-
----
-
-![]({{site.baseurl}}/images/about-images/motivation_3.PNG)
-Notes:
-  1. Placing an aggressive emphasis on software engineering process learning and learning to be hyper-adaptable.
-  1. Process and approach generalize across technical problems.
-
----
+I am always striving to promote a culture of curiosity, camaraderie, and compassion. I am passionate about technology (particularly data-driven), philosophy, history, and economics. I love coding (see this blog, [my Medium page](https://medium.com/@aakashpydi), [my twitter page](https://twitter.com/PydiAakash), [my technical newsletter](https://aakashpydi.substack.com/)), reading [(My Goodreads Page)](https://www.goodreads.com/user/show/53458380-aakash-pydi), gaming, and watching lots of movies/tv shows.
 
 ### Contact me
 
